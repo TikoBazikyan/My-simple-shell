@@ -1,0 +1,23 @@
+name : This_my_action
+
+on :
+ push :	
+  branches :
+   - master
+
+jobs :
+
+ my_test :
+  runs-on : ubuntu-latest
+
+  steps :
+    - name : Run Hello world
+      run : echo "Hello World from testing"
+      
+  
+ my_deploy :
+  runs-on : ubuntu-latest
+
+  steps:
+    - name : Run Hello world
+      run : echo "Hello World from testing"

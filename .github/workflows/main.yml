@@ -3,7 +3,7 @@ name : This_my_action
 on :
  push :	
   branches :
-   - master
+   - main
 
 jobs :
 

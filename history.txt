@@ -2,7 +2,9 @@
 qwr
 pwd
 cd ..
-asd
+asdas
+ssjsldnalkjsadn
+
 kkk=ww
 kss=qqq
 $kkk
